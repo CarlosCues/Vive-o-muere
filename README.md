@@ -31,4 +31,5 @@ Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente 
 ## Contact
 
 email: c.cuestac@yahoo.es
-social linkedin.com/in/carloscuestacantera/
+
+social: linkedin.com/in/carloscuestacantera/
