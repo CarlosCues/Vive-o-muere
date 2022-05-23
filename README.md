@@ -1,6 +1,6 @@
 # Gesture Recognition tool
 
-Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
+:tada: Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
 
 :fire: La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
 
@@ -17,20 +17,20 @@ Las distintas fases del proyecto han sido:
 
 Proyecto desarrollado integramente en Python, con las siguientes bibliotecas requeridas:
 
-- Pandas
-- OpenCV
-- SKlearn
-- MediaPipe
-- Joblib
+- Pandas :white_check_mark:
+- OpenCV :white_check_mark:
+- SKlearn :white_check_mark:
+- MediaPipe :white_check_mark:
+- Joblib :white_check_mark:
 
 ## How it works?
 
-Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se abre el blog de notas. Cuando el usuario quiera cerrar el blog de notas, simplemente hay que hacer "thumb down" y, al reconocerlo el programa cerrara el blog de notas.
+:camera_flash: Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se abre el blog de notas. Cuando el usuario quiera cerrar el blog de notas, simplemente hay que hacer "thumb down" y, al reconocerlo el programa cerrara el blog de notas.
 
 [![giphy.gif](https://i.postimg.cc/J7Tkrkv4/giphy.gif)](https://postimg.cc/Cdq1JzwW)
 
 ## Contact
 
-email: c.cuestac@yahoo.es
+:technologist:mail: c.cuestac@yahoo.es
 
-social: linkedin.com/in/carloscuestacantera/
+:technologist: social: linkedin.com/in/carloscuestacantera/
