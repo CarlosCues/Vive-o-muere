@@ -2,7 +2,7 @@
 
 Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
 
-La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
+:fire: La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
 
 Las distintas fases del proyecto han sido:
 
