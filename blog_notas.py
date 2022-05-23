@@ -1,7 +1,6 @@
-
 import subprocess 
 from datetime import datetime
-import os
+
 
 class Notepad:
 
