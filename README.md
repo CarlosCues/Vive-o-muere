@@ -1,4 +1,4 @@
-# Gesture Recognition tool
+# Gesture Recognition tool :see_no_evil::see_no_evil:
 
 :boom::boom: Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
 
@@ -22,7 +22,7 @@ Proyecto desarrollado integramente en Python, con las siguientes bibliotecas req
 - MediaPipe :white_check_mark:
 - Joblib :white_check_mark:
 
-## How it works?
+## How it works? :wrench::wrench::wrench:
 
 Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se abre el blog de notas. Cuando el usuario quiera cerrar el blog de notas, simplemente hay que hacer "thumb down" y, al reconocerlo el programa cerrara el blog de notas.
 
@@ -30,6 +30,6 @@ Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente 
 
 ## Contact
 
-email: c.cuestac@yahoo.es
+:technologist: email: c.cuestac@yahoo.es
 
 :technologist: ocial linkedin.com/in/carloscuestacantera/
