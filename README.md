@@ -1,8 +1,8 @@
 # Gesture Recognition tool
 
-Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
+:boom::boom: Projecto final de bootcamp que consiste en el desarrollo de una aplicación de reconocimiento gestual para interactuar con un ordenador en tiempo real.
 
-La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
+:tada: La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
 
 Las distintas fases del proyecto han sido:
 
@@ -16,11 +16,11 @@ Las distintas fases del proyecto han sido:
 [![descarga.png](https://i.postimg.cc/Cx2qkPqQ/descarga.png)](https://postimg.cc/w1hMdkFX)
 Proyecto desarrollado integramente en Python, con las siguientes bibliotecas requeridas:
 
-- Pandas
-- OpenCV
-- SKlearn
-- MediaPipe
-- Joblib
+- Pandas :white_check_mark:
+- OpenCV :white_check_mark:
+- SKlearn :white_check_mark:
+- MediaPipe :white_check_mark:
+- Joblib :white_check_mark:
 
 ## How it works?
 
@@ -31,4 +31,5 @@ Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente 
 ## Contact
 
 email: c.cuestac@yahoo.es
-social linkedin.com/in/carloscuestacantera/
+
+:technologist: ocial linkedin.com/in/carloscuestacantera/
