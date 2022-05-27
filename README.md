@@ -4,7 +4,7 @@
 
 :tada: La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
 
-![Alt text](videoshow.gif) / ![](videoshow.gif)
+![Alt text](videoshow.gif)
 
 Las distintas fases del proyecto han sido:
 
