@@ -4,6 +4,10 @@
 
 :tada: La aplicación funciona, y se iran añadiendo mas gestos para interacturar con el pc.
 
+## How it works? :wrench::wrench::wrench:
+
+Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se crea el archivo Mynotes en el blog de notas, en su defecto, si ya existe el archivo se abrirá. Al abrir el archivo se muestra la fecha del dia en el que se abre mynotes asi como el contenido guardado anteriormente. Cuando el usuario quiera cerrar Mynotes simplemente hay que hacer "thumb down" y, al reconocerlo el programa guardará Mynotes y cerrara el blog de notas.
+
 ![Alt text](videoshow1.gif)
 
 Las distintas fases del proyecto han sido:
@@ -24,10 +28,6 @@ Proyecto desarrollado integramente en Python, con las siguientes bibliotecas req
 - SKlearn :white_check_mark:
 - MediaPipe :white_check_mark:
 - Joblib :white_check_mark:
-
-## How it works? :wrench::wrench::wrench:
-
-Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se crea el archivo Mynotes en el blog de notas, en su defecto, si ya existe el archivo se abrirá. Al abrir el archivo se muestra la fecha del dia en el que se abre mynotes asi como el contenido guardado anteriormente. Cuando el usuario quiera cerrar Mynotes simplemente hay que hacer "thumb down" y, al reconocerlo el programa guardará Mynotes y cerrara el blog de notas.
 
 [![giphy.gif](https://i.postimg.cc/J7Tkrkv4/giphy.gif)](https://postimg.cc/Cdq1JzwW)
 
