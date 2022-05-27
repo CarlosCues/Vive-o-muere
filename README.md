@@ -25,7 +25,7 @@ Proyecto desarrollado integramente en Python, con las siguientes bibliotecas req
 
 ## How it works? :wrench::wrench::wrench:
 
-Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se abre el blog de notas. Cuando el usuario quiera cerrar el blog de notas, simplemente hay que hacer "thumb down" y, al reconocerlo el programa cerrara el blog de notas.
+Al ejecutar la aplicacion la cámara web del ordenador se abre automáticamente y cuando detecta un "Thumb up" se crea el archivo Mynotes en el blog de notas, en su defecto, si ya existe el archivo se abrirá. Al abrir el archivo se muestra la fecha del dia en el que se abre mynotes asi como el contenido guardado anteriormente. Cuando el usuario quiera cerrar Mynotes simplemente hay que hacer "thumb down" y, al reconocerlo el programa guardará Mynotes y cerrara el blog de notas.
 
 [![giphy.gif](https://i.postimg.cc/J7Tkrkv4/giphy.gif)](https://postimg.cc/Cdq1JzwW)
 
