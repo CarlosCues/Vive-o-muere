@@ -7,7 +7,6 @@ def predice_landmarks(imagen):
     """Funcion que predice si una imagen pasada por parametro es thumbs up o thumbs down
 
     Args:
-        func (_type_): funcion que devuelve los 21 landmarks,  en formato vector.
         imagen (_type_): imagen a predecir
 
     Returns:

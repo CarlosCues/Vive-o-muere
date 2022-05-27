@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
-from blog_notas import Notepad,archivo
+from blog_notas import Notepad
+from file import escribe_fecha,check_file,guardar
 from predice_landmarks import predice_landmarks
 
 
@@ -8,24 +9,24 @@ from predice_landmarks import predice_landmarks
 mp_drawing= mp.solutions.drawing_utils
 mp_hands= mp.solutions.hands
 
-
 cap=cv2.VideoCapture(0)
 n=Notepad()
+name='mynotes'
+
 
 while True:
     ret, frame = cap.read()
     data=predice_landmarks(frame)
     print(data)
 
-    
-
     if data =='Up':  
         n.abrir()
-        archivo()
-     
+        escribe_fecha(name)
+        check_file(escribe_fecha(name))
+
     if data=='Down':
+        guardar()
         n.cerrar()       
-    
     
     ###imprimier texto en imagen
     
