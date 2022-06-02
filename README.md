@@ -29,7 +29,7 @@ Proyecto desarrollado integramente en Python, con las siguientes bibliotecas req
 - MediaPipe :white_check_mark:
 - Joblib :white_check_mark:
 
-[![giphy.gif](https://i.postimg.cc/J7Tkrkv4/giphy.gif)](https://postimg.cc/Cdq1JzwW)
+
 
 ## Contact
 
