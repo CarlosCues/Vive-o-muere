@@ -19,7 +19,7 @@ Las distintas fases del proyecto han sido:
 
 ## Dependencies
 
-[![descarga.png](https://i.postimg.cc/Cx2qkPqQ/descarga.png)](https://postimg.cc/w1hMdkFX)
+
 
 Proyecto desarrollado integramente en Python, con las siguientes bibliotecas requeridas:
 
